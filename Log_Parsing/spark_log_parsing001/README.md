@@ -1,6 +1,7 @@
 # Spark Log Parsing ETL Project
 
 **Introduction**
+
 Spark log parsing is an important aspect of the data processing pipeline. It allows us to understand what is happening during the data processing and to identify any potential issues that may arise. The aim of this project is to parse the log data and understand what the top events in the log stood out.
 
 Benefits of log parsing
