@@ -27,7 +27,7 @@ Pip installs: The following pip installs are required to run this project:
 
 **Steps**
 
-  + Extract the log data from S3 bucket using boto3.
+  + Upload the log data from S3 bucket using boto3.
 
   + Use regular expression (re) to extract the messages from the log data.
 
