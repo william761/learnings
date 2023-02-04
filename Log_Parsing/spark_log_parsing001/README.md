@@ -18,22 +18,22 @@ AWS setup: To run this project, you need to have an AWS setup with S3 bucket to 
 Python: This project uses Python programming language.
 
 Pip installs: The following pip installs are required to run this project:
-  -awscli
-  -boto3
-  -pandas
-  -matplotlib
-  -numpy
-  -re (regular expression)
+  + awscli
+  + boto3
+  + pandas
+  + matplotlib
+  + numpy
+  + re (regular expression)
 
 **Steps**
 
-  -Extract the log data from S3 bucket using boto3.
+  + Extract the log data from S3 bucket using boto3.
 
-  -Use regular expression (re) to extract the messages from the log data.
+  + Use regular expression (re) to extract the messages from the log data.
 
-  -Use pandas to manipulate the extracted data.
+  + Use pandas to manipulate the extracted data.
 
-  -Use matplotlib to visualize the data and understand the top events in the log.
+  + Use matplotlib to visualize the data and understand the top events in the log.
 
 **Conclusion**
 
