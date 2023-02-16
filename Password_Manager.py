@@ -46,6 +46,7 @@ class PasswordManager:
         return self.password_dict[site]
 
 def main():
+    # dummy example passwords
     password = {
         "email": "4781gjf47y",
         "facebook": "fhj39843234",
